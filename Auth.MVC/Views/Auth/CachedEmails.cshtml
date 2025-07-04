@@ -1,0 +1,42 @@
+﻿@using Auth.MVC.DTO
+@{
+    var data = ViewBag.CachedEmails as EmailListDTO;
+}
+
+<h2>Cached Emails</h2>
+@if (data == null)
+{
+    <div class="alert alert-warning">No data available.</div>
+}
+else if (!string.IsNullOrEmpty(data.Error))
+{
+    <div class="alert alert-danger">@data.Error</div>
+}
+else if (!string.IsNullOrEmpty(data.Message))
+{
+    <div class="alert alert-info">@data.Message</div>
+}
+else if (data.Emails != null && data.Emails.Any())
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Email Address</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < data.Emails.Count; i++)
+            {
+                <tr>
+                    <td>@(i + 1)</td>
+                    <td>@data.Emails[i]</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="alert alert-warning">No emails found in cache.</div>
+}

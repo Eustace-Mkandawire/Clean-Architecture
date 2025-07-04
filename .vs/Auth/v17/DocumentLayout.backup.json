@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ad-dev\\Documents\\Programming\\Practice\\C#\\Auth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB2766D-EF97-47C9-9A11-E36D68BA3915}|Auth.MVC\\Auth.MVC.csproj|c:\\users\\ad-dev\\documents\\programming\\practice\\c#\\auth\\auth.mvc\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCB2766D-EF97-47C9-9A11-E36D68BA3915}|Auth.MVC\\Auth.MVC.csproj|solutionrelative:auth.mvc\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92110F9D-E2C3-4FF4-A9F1-09661C111B39}|Auth.WebApi\\Auth.WebApi.csproj|c:\\users\\ad-dev\\documents\\programming\\practice\\c#\\auth\\auth.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92110F9D-E2C3-4FF4-A9F1-09661C111B39}|Auth.WebApi\\Auth.WebApi.csproj|solutionrelative:auth.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92110F9D-E2C3-4FF4-A9F1-09661C111B39}|Auth.WebApi\\Auth.WebApi.csproj|c:\\users\\ad-dev\\documents\\programming\\practice\\c#\\auth\\auth.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92110F9D-E2C3-4FF4-A9F1-09661C111B39}|Auth.WebApi\\Auth.WebApi.csproj|solutionrelative:auth.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C85BF4-0DD1-49E8-8EDC-0D6D6788919D}|Auth.Domain\\Auth.Domain.csproj|c:\\users\\ad-dev\\documents\\programming\\practice\\c#\\auth\\auth.domain\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C85BF4-0DD1-49E8-8EDC-0D6D6788919D}|Auth.Domain\\Auth.Domain.csproj|solutionrelative:auth.domain\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A428CE-B2CE-4FB7-A5FB-DFAEC24474CE}|Auth.Application\\Auth.Application.csproj|c:\\users\\ad-dev\\documents\\programming\\practice\\c#\\auth\\auth.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A428CE-B2CE-4FB7-A5FB-DFAEC24474CE}|Auth.Application\\Auth.Application.csproj|solutionrelative:auth.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A428CE-B2CE-4FB7-A5FB-DFAEC24474CE}|Auth.Application\\Auth.Application.csproj|c:\\users\\ad-dev\\documents\\programming\\practice\\c#\\auth\\auth.application\\infrastructures\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A428CE-B2CE-4FB7-A5FB-DFAEC24474CE}|Auth.Application\\Auth.Application.csproj|solutionrelative:auth.application\\infrastructures\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB2766D-EF97-47C9-9A11-E36D68BA3915}|Auth.MVC\\Auth.MVC.csproj|c:\\users\\ad-dev\\documents\\programming\\practice\\c#\\auth\\auth.mvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB2766D-EF97-47C9-9A11-E36D68BA3915}|Auth.MVC\\Auth.MVC.csproj|solutionrelative:auth.mvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB2766D-EF97-47C9-9A11-E36D68BA3915}|Auth.MVC\\Auth.MVC.csproj|c:\\users\\ad-dev\\documents\\programming\\practice\\c#\\auth\\auth.mvc\\dto\\emaillistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB2766D-EF97-47C9-9A11-E36D68BA3915}|Auth.MVC\\Auth.MVC.csproj|solutionrelative:auth.mvc\\dto\\emaillistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB2766D-EF97-47C9-9A11-E36D68BA3915}|Auth.MVC\\Auth.MVC.csproj|c:\\users\\ad-dev\\documents\\programming\\practice\\c#\\auth\\auth.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DCB2766D-EF97-47C9-9A11-E36D68BA3915}|Auth.MVC\\Auth.MVC.csproj|solutionrelative:auth.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB2766D-EF97-47C9-9A11-E36D68BA3915}|Auth.MVC\\Auth.MVC.csproj|c:\\users\\ad-dev\\documents\\programming\\practice\\c#\\auth\\auth.mvc\\views\\auth\\cachedemails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCB2766D-EF97-47C9-9A11-E36D68BA3915}|Auth.MVC\\Auth.MVC.csproj|solutionrelative:auth.mvc\\views\\auth\\cachedemails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB2766D-EF97-47C9-9A11-E36D68BA3915}|Auth.MVC\\Auth.MVC.csproj|c:\\users\\ad-dev\\documents\\programming\\practice\\c#\\auth\\auth.mvc\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB2766D-EF97-47C9-9A11-E36D68BA3915}|Auth.MVC\\Auth.MVC.csproj|solutionrelative:auth.mvc\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ad-dev\\Documents\\Programming\\Practice\\C#\\Auth\\Auth.MVC\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "Auth.MVC\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ad-dev\\Documents\\Programming\\Practice\\C#\\Auth\\Auth.MVC\\Views\\Auth\\Login.cshtml*",
+              "RelativeToolTip": "Auth.MVC\\Views\\Auth\\Login.cshtml*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T21:03:17.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ad-dev\\Documents\\Programming\\Practice\\C#\\Auth\\Auth.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Auth.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ad-dev\\Documents\\Programming\\Practice\\C#\\Auth\\Auth.WebApi\\Program.cs",
+              "RelativeToolTip": "Auth.WebApi\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:58:59.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ad-dev\\Documents\\Programming\\Practice\\C#\\Auth\\Auth.WebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Auth.WebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ad-dev\\Documents\\Programming\\Practice\\C#\\Auth\\Auth.WebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Auth.WebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwCsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:51:34.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ad-dev\\Documents\\Programming\\Practice\\C#\\Auth\\Auth.Domain\\Models\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "Auth.Domain\\Models\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\ad-dev\\Documents\\Programming\\Practice\\C#\\Auth\\Auth.Domain\\Models\\LoginResponse.cs",
+              "RelativeToolTip": "Auth.Domain\\Models\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:49:02.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ad-dev\\Documents\\Programming\\Practice\\C#\\Auth\\Auth.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Auth.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\ad-dev\\Documents\\Programming\\Practice\\C#\\Auth\\Auth.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "Auth.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAqwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:45:09.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "C:\\Users\\ad-dev\\Documents\\Programming\\Practice\\C#\\Auth\\Auth.Application\\Infrastructures\\ICacheService.cs",
+              "RelativeDocumentMoniker": "Auth.Application\\Infrastructures\\ICacheService.cs",
+              "ToolTip": "C:\\Users\\ad-dev\\Documents\\Programming\\Practice\\C#\\Auth\\Auth.Application\\Infrastructures\\ICacheService.cs",
+              "RelativeToolTip": "Auth.Application\\Infrastructures\\ICacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:45:00.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailListDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ad-dev\\Documents\\Programming\\Practice\\C#\\Auth\\Auth.MVC\\DTO\\EmailListDTO.cs",
+              "RelativeDocumentMoniker": "Auth.MVC\\DTO\\EmailListDTO.cs",
+              "ToolTip": "C:\\Users\\ad-dev\\Documents\\Programming\\Practice\\C#\\Auth\\Auth.MVC\\DTO\\EmailListDTO.cs",
+              "RelativeToolTip": "Auth.MVC\\DTO\\EmailListDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:37:39.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ad-dev\\Documents\\Programming\\Practice\\C#\\Auth\\Auth.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Auth.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\ad-dev\\Documents\\Programming\\Practice\\C#\\Auth\\Auth.MVC\\appsettings.json",
+              "RelativeToolTip": "Auth.MVC\\appsettings.json",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-04T20:27:23.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ad-dev\\Documents\\Programming\\Practice\\C#\\Auth\\Auth.MVC\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Auth.MVC\\Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\ad-dev\\Documents\\Programming\\Practice\\C#\\Auth\\Auth.MVC\\Service\\AuthService.cs",
+              "RelativeToolTip": "Auth.MVC\\Service\\AuthService.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAwwK4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:06:47.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ad-dev\\Documents\\Programming\\Practice\\C#\\Auth\\Auth.MVC\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Auth.MVC\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ad-dev\\Documents\\Programming\\Practice\\C#\\Auth\\Auth.MVC\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Auth.MVC\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAAHAAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T19:41:05.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CachedEmails.cshtml",
+              "DocumentMoniker": "C:\\Users\\ad-dev\\Documents\\Programming\\Practice\\C#\\Auth\\Auth.MVC\\Views\\Auth\\CachedEmails.cshtml",
+              "RelativeDocumentMoniker": "Auth.MVC\\Views\\Auth\\CachedEmails.cshtml",
+              "ToolTip": "C:\\Users\\ad-dev\\Documents\\Programming\\Practice\\C#\\Auth\\Auth.MVC\\Views\\Auth\\CachedEmails.cshtml",
+              "RelativeToolTip": "Auth.MVC\\Views\\Auth\\CachedEmails.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T19:40:16.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

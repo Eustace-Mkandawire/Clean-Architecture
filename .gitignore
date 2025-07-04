@@ -1,0 +1,4 @@
+".vs/"
+## Log files ##
+*.log
+logs/ 
